@@ -3,17 +3,17 @@
 A collection of HTML5 games, browser games, videos, software, and other
 digital materials collected from various sources.
 
-## 🎮 Games
+## 🕹 Games
 
 Browse and play the available browser-based games directly from the
 site.
 
-## 💾 Software & Other Files
+## 🖫 Software & Other Files
 
 This collection may also contain programs, downloadable files, videos,
 and other digital materials.
 
-## ⚠️ Disclaimer
+## ⚠ Disclaimer
 
 Not all material in this repository was created by the repository
 creator.
@@ -29,7 +29,7 @@ is public domain or that the repository creator owns or licenses it.
 
 See [`NOTICE.md`](NOTICE.md) for additional information.
 
-## 📜 Licensing
+## § Licensing
 
 Original material created specifically for this repository is released
 under the public-domain dedication described in [`LICENSE`](LICENSE).
