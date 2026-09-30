@@ -3,7 +3,7 @@
 A collection of HTML5 games, browser games, videos, software, and other
 digital materials collected from various sources.
 
-## 🕹 Games
+## 🎮︎ Games
 
 Browse and play the available browser-based games directly from the
 site.
